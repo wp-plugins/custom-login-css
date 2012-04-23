@@ -28,7 +28,7 @@ Downloading from Wordpress Website
 2. Unzip the plugin
 3. Upload `/custom-login-css/` directory to the `/wp-content/plugins/` directory
 4. Activate the plugin through the 'Plugins' menu in WordPress
-5. Create a custom-login.css in your theme directory
+5. done
 
 Using the Wordpress Admin page for installing
 
@@ -36,7 +36,7 @@ Using the Wordpress Admin page for installing
 2. Search for 'Custom Login Css'
 3. Select install for the plugin 'Custom Login Css' by graphicedit
 4. Activate the plugin through the 'Installing Plugin' page in WordPress
-5. Create a wp-custom-login.css in your theme directory
+5. done
 
 
 == Screenshots ==
